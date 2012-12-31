@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>The standart descriptions of all regions.</comment>
+<entry key="house">An old house. It's empty and some windows are broken.</entry>
+<entry key="swampyforest">It's a swampy forest. The mud is knee deep and vines are hanging from the trees.</entry>
+<entry key="dungeon">The air here is dump. Some torches are sparsley lighting up the place.</entry>
+<entry key="desert">The dusty ground is burnt form the bright sun.</entry>
+<entry key="castle">A huge castle. The towers are flagged with banners.</entry>
+<entry key="plains">The land is wide open and you can see very far.</entry>
+<entry key="saltlake">Salt built bizarre sculptures on the ground. It's cracking while you step on it.</entry>
+<entry key="taiga">It's a cold wasteland with only a few bushes and grass around.</entry>
+<entry key="city">People are walking in the cobblestoned streets, cows are pulling wagons around.</entry>
+<entry key="tundra">Frosty wind is whistling through the pine trees. Chunks of snow are falling from them.</entry>
+<entry key="openswamp">The mud here is knee deep. The air is filled with a rotten smell and strange flies buzz close over the surface.</entry>
+<entry key="town">A dirt road leads through this town, where people do their work near their houses.</entry>
+<entry key="sulphur">A sickening smell fills the air. No creature is willing to live here, it's a desolate part of the world.</entry>
+<entry key="forest">Birds sit on the branches of all sorts of trees, whistling their songs. From far you here sounds of deer and other wild creatures.</entry>
+<entry key="crypt">The air is musty and damp. The place isn't lit, you can hardly see the way.</entry>
+<entry key="stronghold">An old abandoned stronghold in the mid of nowhere. The once strong walls are torn apart by the time.</entry>
+</properties>
